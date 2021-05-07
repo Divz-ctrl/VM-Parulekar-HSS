@@ -1,0 +1,38 @@
+.tags{
+	height: 100px;
+}
+
+.para
+{
+	margin-left: 20px;
+	margin-right: 20px;
+	padding:20px;
+}
+
+
+.space1
+{
+   line-height: 80%
+}
+
+.imagedim{
+	margin-top:50px;
+	padding: 100px
+	align-content: center
+	width: 600px
+	height:300px
+
+}
+
+.formpad
+{
+	padding:30px;
+}
+
+.tt
+{
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-top: 50px;
+}
